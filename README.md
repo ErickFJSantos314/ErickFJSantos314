@@ -1,4 +1,4 @@
-#Oi, eu sou Erick Francisco 👋
+##Oi, eu sou Erick Francisco 👋
 
 🎓 Estudante de Ciência & Tecnologia na UFBA e ADS na UCSAL  
 💼 Estagiário na Amorim, Marinho e Machado | Jovem Aprendiz na Wilson Sons  
