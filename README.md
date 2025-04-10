@@ -17,7 +17,7 @@
 - Markdown para documentação
 
 ## 📫 Como falar comigo?
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https:/www.linkedin.com/in/erick-francisco-de-jesus-santos-28a756274)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-francisco-de-jesus-santos-28a756274)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:erickfranciscojs@hotmail.com)
 
 ---
