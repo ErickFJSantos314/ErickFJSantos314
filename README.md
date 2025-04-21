@@ -1,7 +1,7 @@
 # Oi, eu sou Erick Francisco 👋
 
 🎓 Estudante de Ciência & Tecnologia na UFBA e Análise e Desenvolvimento de Sistemas na UCSAL  
-💼 Estagiário na Amorim, Marinho e Machado | Jovem Aprendiz na Wilson Sons  
+💼 Jovem Aprendiz na Wilson Sons | Estagiário na Amorim, Marinho e Machado 
 🚀 Apaixonado por automações com Python e projetos web simples e funcionais  
 🔭 Astronomia, física teórica e observações com meu telescópio me encantam  
 
