@@ -14,7 +14,7 @@
 
 ## 🌱 Aprendendo
 - Selenium para automação web
-- Markdown para documentação
+- Desenvolvimento front-end
 
 ## 📫 Como falar comigo?
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-francisco-de-jesus-santos-28a756274)
