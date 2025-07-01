@@ -2,8 +2,7 @@
 
 🎓 Estudante de Ciência & Tecnologia na UFBA e Análise e Desenvolvimento de Sistemas na UCSAL  
 💼 Jovem Aprendiz na Wilson Sons | Estagiário na Amorim, Marinho e Machado 
-🚀 Apaixonado por automações com Python e projetos web simples e funcionais  
-🔭 Astronomia, física teórica e observações com meu telescópio me encantam  
+🚀 Automações com Python e projetos web simples e funcionais
 
 ## 🛠️ Tecnologias e ferramentas
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
@@ -13,6 +12,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
 
 ## 🌱 Aprendendo
+
 - Selenium para automação web
 - Desenvolvimento front-end
 
