@@ -76,6 +76,6 @@ Minha stack é flexível e estou sempre aprendendo, mas estas são as ferramenta
 Estou sempre aberto a novas oportunidades e colaborações. Vamos nos conectar!
 
 <p align="left">
-<a href="https://www.linkedin.com/in/erick-francisco-de-jesus-santos-28a756274" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn"/></a>
+<a href="www.linkedin.com/in/erick-francisco-28a756274" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn"/></a>
 <a href="mailto:erickfranciscojs@hotmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail" alt="Email"/></a>
 </p>
