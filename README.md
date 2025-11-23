@@ -1,81 +1,77 @@
-# Olá, eu sou Erick Francisco 👋
+### Olá! Eu sou o Erick Francisco 👋
 
-### 💡 Sobre Mim
-Sou um desenvolvedor focado em resolver problemas reais através da tecnologia. Atualmente, estudo Ciência & Tecnologia na UFBA e Análise e Desenvolvimento de Sistemas na UCSAL, enquanto aplico meu conhecimento como Jovem Aprendiz na Wilson Sons.
-
-Minha especialidade é transformar processos manuais em automações eficientes com Python e desenvolver soluções de software completas, desde a concepção da ideia até o deploy. Recentemente, liderei o desenvolvimento do **WSave**, projeto de Visão Computacional que foi o **grande vencedor do Hackathon Be Digital 2025**.
-
----
-
-### 🏆 Projetos em Destaque
-
-<a href="https://github.com/ErickFJSantos314/hackathon-wilson-sons-wsave">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickFJSantos314&repo=hackathon-wilson-sons-wsave&theme=dark&bg_color=05122A&title_color=FFFFFF&icon_color=FFFFFF&text_color=9f9f9f" />
-</a>
-
-**WSave - Guardião Digital de EPIs**
-> **Vencedor do 1º Lugar no Hackathon Be Digital 2025 da Wilson Sons!** 🏆
->
-> Solução de Inteligência Artificial que utiliza Visão Computacional para verificar o uso correto de Equipamentos de Proteção Individual em tempo real. O protótipo foi desenvolvido com uma arquitetura de Edge AI, rodando o modelo diretamente no navegador.
->
-> **Tecnologias:** React.js, ONNX Runtime, Python, AWS SageMaker.
->
-> **[Ver Demo Online](https://erickfjsantos314.github.io/hackathon-wilson-sons-wsave/)** | **[Ver Repositório](https://github.com/ErickFJSantos314/hackathon-wilson-sons-wsave)**
+<div align="center">
+  <strong>Desenvolvedor Python | Inteligência Artificial & Visão Computacional | Automação</strong>
+  <br>
+  📍 Salvador, BA, Brasil
+  <br><br>
+  
+  <a href="(https://www.linkedin.com/in/erick-francisco-28a756274)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:erickfranciscojs@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🚀 Sobre Mim
 
-Minha stack é flexível e estou sempre aprendendo, mas estas são as ferramentas que mais utilizo:
+Sou um desenvolvedor apaixonado por **transformar problemas complexos em soluções de código**. Com background em Analítico, desenvolvo tecnologia com foco em aplicar **Inteligência Artificial** e **Automação** para gerar valor real.
 
-<p align="left">
-  <strong>Front-End:</strong><br>
-  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3" />
-</p>
-
-<p align="left">
-  <strong>Back-End & Automação:</strong><br>
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-PySide6-05122A?style=flat&logo=qt" />
-  <img src="https://img.shields.io/badge/-Google%20Apps%20Script-05122A?style=flat&logo=googleappsscript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium" />
-  <img src="https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas" />
-</p>
-
-<p align="left">
-  <strong>IA & Machine Learning:</strong><br>
-  <img src="https://img.shields.io/badge/-ONNX-05122A?style=flat&logo=onnx" />
-  <img src="https://img.shields.io/badge/-Scikit Learn-05122A?style=flat&logo=scikit-learn" />
-  <img src="https://img.shields.io/badge/-Google AI-05122A?style=flat&logo=google-cloud" />
-</p>
-
-<p align="left">
-  <strong>Cloud & Ferramentas:</strong><br>
-  <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/-VS Code-05122A?style=flat&logo=visual-studio-code" />
-</p>
+* 🏆 **Vencedor do Hackathon Wilson Sons (1º Lugar):** Criei uma solução de Visão Computacional para segurança portuária.
+* 🔭 **Foco Atual:** Estudando e desenvolvendo soluções em **Generative AI (RAG)** e **Deep Learning** aplicado à saúde.
+* 💡 **Mentalidade:** "Automatize o chato, foque no criativo."
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ErickFJSantos314&show_icons=true&theme=dark&bg_color=05122A&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickFJSantos314&layout=compact&langs_count=7&theme=dark&bg_color=05122A"/>
-</p>
+**Linguagens & Core:**
+<div style="display: inline-block"><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+
+**Inteligência Artificial & Dados:**
+<div style="display: inline-block"><br>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+</div>
+
+**Ferramentas & Cloud:**
+<div style="display: inline-block"><br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</div>
 
 ---
 
-### 📫 Como Falar Comigo
+### 📂 Projetos em Destaque
 
-Estou sempre aberto a novas oportunidades e colaborações. Vamos nos conectar!
+| Projeto | Tech Stack | Descrição |
+| :--- | :--- | :--- |
+| **[WSAVE (Vencedor Hackathon)](https://github.com/ErickFJSantos314/hackathon-wilson-sons-wsave)** | Python, YOLOv8, React, AWS | Sistema de "Guardião Digital" para detecção de EPIs em tempo real. |
+| **[Benchmark Pneumonia YOLO](https://github.com/ErickFJSantos314/Triagem-Pneumonia-RaioX-YOLO)** | Python, PyTorch, Streamlit | Estudo comparativo (v8 vs v10) para detecção de pneumonia em Raio-X. |
+| **SSBOT (Em Desenvolvimento)** | Python, LangChain, RAG | Chatbot especialista em NR6 de Segurança do Trabalho. |
 
-<p align="left">
-<a href="https://www.linkedin.com/in/erick-francisco-28a756274" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn"/></a>
-<a href="mailto:erickfranciscojs@hotmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail" alt="Email"/></a>
-</p>
+---
+
+### ⚡ Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ErickFJSantos314&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickFJSantos314&layout=compact&theme=dark"/>
+</div>
+
+---
+<div align="center">
+  <i>"A melhor maneira de prever o futuro é inventá-lo."</i>
+</div>
