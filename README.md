@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Erick Francisco 👋
 
 <div align="center">
-  <strong>Desenvolvedor Python | Inteligência Artificial & Visão Computacional | Automação</strong>
+  <strong>Inteligência Artificial | Machine Learning & Visão Computacional | Automação de processos com inovação</strong>
   <br>
   📍 Salvador, BA, Brasil
   <br><br>
