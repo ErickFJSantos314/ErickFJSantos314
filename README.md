@@ -2,7 +2,7 @@
 
 > *"Lifelong Learner: Sempre me colocando na posição de aprendiz."*
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na UCSAL**. Me considero um "Maker": se vejo um processo manual, busco formas de automatizá-lo.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na UCSAL** e **Física no Instituto Federal da Bahia** . Me considero um "Maker": se vejo um processo manual, busco formas de automatizá-lo.
 
 Atualmente, meu foco é unir a **Engenharia de Dados** e **Automação** com a **Inteligência Artificial**, explorando como LLMs, modelos de ML e Visão Computacional podem resolver problemas reais.
 
