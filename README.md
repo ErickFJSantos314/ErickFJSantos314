@@ -1,44 +1,47 @@
-# Olá, eu me chamo Erick Francisco!
+# Olá, eu sou Erick Francisco! 🚀
 
-> *"Lifelong Learner: Sempre me colocando na posição de aprendiz."*
+> *"Arquiteto de Soluções em Inteligência Artificial, Visão Computacional e Automação."*
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na UCSAL** e **Física no Instituto Federal da Bahia** . Me considero um "Maker": se vejo um processo manual, busco formas de automatizá-lo.
+Transformo gargalos operacionais complexos em ecossistemas autônomos. Com uma base matemática e analítica sólida forjada na **Física (IFBA)** e em **Sistemas (UCSAL)**, meu foco é construir a engenharia profunda por trás de aplicações de IA Generativa e Deep Tech.
 
-Atualmente, meu foco é unir a **Engenharia de Dados** e **Automação** com a **Inteligência Artificial**, explorando como LLMs, modelos de ML e Visão Computacional podem resolver problemas reais.
-
----
-
-## 🏆 Destaque: Hackathon Be Digital 2025
-Recentemente, fui **vencedor (1º Lugar)** do hackathon da **Wilson Sons**.
-
-* **Projeto WSAVE:** Desenvolvi uma solução de visão computacional focada em segurança do trabalho. O projeto utiliza IA para monitoramento preventivo, identificando riscos em tempo real.
+Não me limito a consumir APIs prontas; eu desenho e implemento infraestruturas de ponta a ponta — desde agentes RAG para o setor jurídico até modelos de Visão Computacional para segurança industrial e saúde médica (*Cloud-Edge AI*).
 
 ---
 
-## 🛠️ Minha Caixa de Ferramentas
+## 🏆 Projetos e Entregas de Destaque
 
-Minha stack principal gira em torno do ecossistema **Python**, focada em Ciência de Dados, Visão Computacional e Automação.
+* 🥇 **1º Lugar - Hackathon de Inovação Wilson Sons:** **Projeto WSAVE:** Arquitetura e desenvolvimento de um sistema de Visão Computacional preventivo para segurança do trabalho (HSE) em ambientes portuários e industriais. A solução utiliza modelos YOLO para monitoramento de risco e EPIs em tempo real, sem necessidade de intervenção humana.
 
-### 🤖 Inteligência Artificial & Dados
-* **Visão Computacional:** YOLO, OpenCV
-* **GenAI & LLMs:** LangChain, Integração com APIs (Amazon Bedrock)
-* **Machine Learning:** Scikit-Learn
-* **Análise de Dados:** Pandas, NumPy, Matplotlib
-
-### ⚡ Automação (RPA)
-* **Web & Desktop:** Selenium, PyAutoGUI
+* 🔬 **HistoLens SmartScope AI (Kaggle/Google):** Liderança técnica na construção de um assistente *Cloud-Edge* voltado para microscopia e patologia. O sistema integra IA generativa (MedGemma) e processamento de voz para auxiliar médicos patologistas em diagnósticos de alta precisão.
 
 ---
 
-## 📂 Certificações
-Mantenho um registro constante da minha evolução técnica. Você pode conferir meus cursos e certificações no repositório abaixo:
-* [🔗 **Acessar Repositório de Certificados**](https://github.com/ErickFJSantos314/Certificados)
+## 🛠️ Minha Stack e Engenharia
+
+Minha caixa de ferramentas é focada em escalabilidade, precisão de dados e automação inteligente no ecossistema **Python** e em nuvem.
+
+### 🧠 Inteligência Artificial & Deep Tech
+* **GenAI & LLMs:** Orquestração avançada com LangChain, LlamaIndex, Google Vertex AI (Gemini) e Amazon Bedrock. Construção de arquiteturas RAG para dados complexos.
+* **Visão Computacional:** Modelos YOLO, OpenCV e processamento de imagens em tempo real.
+* **Machine Learning & Matemática:** Scikit-Learn, Redes Neurais (construção de arquiteturas Perceptron/Adaline from scratch).
+
+### ⚡ Automação Corporativa (RPA) & Dados
+* **Engenharia e RPA:** Selenium, PyAutoGUI, criação de rotinas autônomas para backoffice.
+* **Análise de Dados:** Pandas, NumPy, Matplotlib.
+
+---
+
+## 📂 Registro Acadêmico e Certificações
+Mantenho um registro constante das minhas especializações e evolução técnica. 
+* [🔗 **Acessar Repositório Oficial de Certificados**](https://github.com/ErickFJSantos314/Certificados)
   
 ---
 
-## 📫 Contato
+## 📫 Vamos falar sobre negócios e tecnologia?
 
-<div align="center">
+Se você busca integrar IA real na sua operação ou discutir arquiteturas complexas, minhas portas estão abertas.
+
+<div align="left">
   <a href="www.linkedin.com/in/erick-francisco-28a756274" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
